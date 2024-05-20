@@ -22,8 +22,12 @@ Using zzz code ai for web development for html css frontent backend and full sta
 #UIVERSE.IO
 Uiverse.io is a comprehensive platform offering over 3,500 free, open-source UI elements for web developers and designers. The site includes various components such as buttons, forms, and tooltips, all created using CSS and Tailwind. Uiverse.io recently launched its 2.0 version, enhancing the user experience with features like Figma integration for seamless design workflows, new UI categories, and a sleek, intuitive interface. The platform also fosters community engagement through a comment section and showcases contributions on its GitHub repository, Uiverse Galaxy​ (Uiverse)​​ (Product Hunt)​​ (Subscribed.FYI)​.
 
+#GETPIXELSNAP.COM
+The farthest tool for measuring anything on your screen.
 
 
+#CODETOGO.IO
+Find up to date snippets for JavaScript and react use cases.
 
 
 
